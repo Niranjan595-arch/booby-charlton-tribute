@@ -1,0 +1,50 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+
+
+.imge{
+    border-radius: 200px;
+    height: 250px;
+    width: 240px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+             
+.para{
+    display: block;
+    margin-top: 80px; 
+    margin-left: 100px;        
+  line-height: 1.6;
+    max-width: 800px;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.trop {
+  margin-top: 90px;
+  margin-left: 97px;
+}
+
+ul {
+  list-style-type: "⚽ ";   
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 15px;     
+  line-height: 1.6;
+}
+a{
+    margin-left: 109px;
+    margin-bottom: 33px;
+    text-decoration: none;
+}
